@@ -4,7 +4,7 @@ module.exports.config = {
   permssion: 0,
   credits: "★𝐌𝟗𝐇𝟒𝐌𝐌𝟒𝐃-𝐁𝟒𝐃𝟗𝐋★",
   prefix:true,
-  description: "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕",
+  description: "𝐓𝐀𝐑𝐄𝐊 𝐒𝐀𝐑𝐊𝐀𝐑___//𝟎𝟎𝟕",
   category: "love",
   usages: "[boy/girl]",
   cooldowns: 15
