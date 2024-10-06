@@ -159,7 +159,7 @@ module.exports.run = async ({ event, api, args }) => {
     .map(char => fontMap.map[char] || char)
     .join('');
 
-  const gifUrl = 'https://i.imgur.com/Yi0QXnn.jpeg';
+  const gifUrl = 'https://i.imgur.com/pwf2rUW.png';
   const gifData = await axios.get(gifUrl, { responseType: 'stream' });
 
   return api.sendMessage({
