@@ -1,3 +1,137 @@
-remove for all text add your fb appstate
-
-bot owner Mohammad Badol Chowdhury 
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261566936380105%22%3A%22L7Qs767M%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "datr",
+        "value": "BX3_ZpkYuTAutpNgULF7VU2k",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "sb",
+        "value": "BX3_Zl9bggQAuIyixhXnwkJ3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B708x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61566936380105",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "fr",
+        "value": "0ePiFVxOwdwyQ14eV.AWWxy4ngr2U4xwvXc44mLWRuTr0.Bm_30F..AAA.0.0.BnAjhs.AWUZXJeTlfI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "xs",
+        "value": "1%3A7BcXUTs-oVAUgA%3A2%3A1728198765%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61566936380105",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x800",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100431918%3BT%3A28803312",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2635%3Btimestamp%3A1728198769",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-06T07:12:56.588Z",
+        "lastAccessed": "2024-10-06T07:12:56.588Z"
+    }
+]
