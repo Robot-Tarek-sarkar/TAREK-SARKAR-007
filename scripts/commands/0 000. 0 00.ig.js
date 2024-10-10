@@ -1,6 +1,6 @@
 /** THIS FULL BOT COMMAND FILE AND ALL API CREATE BY BADOL CHAT BOT DONT CHINGE THE MY ANY CODE 🤙🖤📿 **/
 module.exports.config = {
-  name: "/",
+  name: ".",
   version: "1.0.0",
   permssion: 0,
   credits: "★𝐌𝟗𝐇𝟒𝐌𝐌𝟒𝐃-𝐁𝟒𝐃𝟗𝐋★",
